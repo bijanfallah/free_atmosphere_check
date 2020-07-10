@@ -5,7 +5,7 @@ It is a code to check what happens during the Kernel Averaging of the model with
 
 ### Future work:
 - I have to find why I have negative values at the second level for NO2?
-- Arjo told it might be due to the missing values !!!
+- A.S told it might be due to the missing values !!!
 - so check the missing values
 #todo: check other runs like the ones with DA
 
